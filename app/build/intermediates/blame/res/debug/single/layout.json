@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\home\\stephanie\\Projects\\Personal\\Daniel\\android\\hw6\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "C:\\home\\stephanie\\Projects\\Personal\\Daniel\\android\\hw6\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\home\\stephanie\\Projects\\Personal\\Daniel\\android\\hw6\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tip_calculator.xml",
+        "source": "C:\\home\\stephanie\\Projects\\Personal\\Daniel\\android\\hw6\\app\\src\\main\\res\\layout\\activity_tip_calculator.xml"
+    },
+    {
+        "merged": "C:\\Users\\dtracy\\Desktop\\AndroidProjects\\Hw\\android-tipcalculator-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "C:\\Users\\dtracy\\Desktop\\AndroidProjects\\Hw\\android-tipcalculator-master\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\dtracy\\Desktop\\AndroidProjects\\Hw\\android-tipcalculator-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tip_calculator.xml",
+        "source": "C:\\Users\\dtracy\\Desktop\\AndroidProjects\\Hw\\android-tipcalculator-master\\app\\src\\main\\res\\layout\\activity_tip_calculator.xml"
+    }
+]
